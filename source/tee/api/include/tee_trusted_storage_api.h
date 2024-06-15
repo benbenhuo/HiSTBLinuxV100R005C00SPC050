@@ -1,1 +1,0 @@
-../../core/trustedcore/trustedos/include/TEE/tee_trusted_storage_api.h

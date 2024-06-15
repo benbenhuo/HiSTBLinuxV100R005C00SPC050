@@ -1,1 +1,0 @@
-CIPHER_OBJS += cipher_v3/compat/hi_drv_compat.o

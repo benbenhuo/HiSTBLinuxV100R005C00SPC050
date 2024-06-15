@@ -1,1 +1,0 @@
-../../core/trustedcore/trustedos/include/TEE/tee_mem_mgmt_api.h

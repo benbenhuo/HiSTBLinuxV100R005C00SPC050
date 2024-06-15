@@ -1,4 +1,0 @@
-#define SW_SYSCALL_TEE_HISILICON_IOCTL           0xc708
-
-
-
