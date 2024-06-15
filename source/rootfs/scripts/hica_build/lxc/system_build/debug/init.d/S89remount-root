@@ -1,5 +1,0 @@
-#!/bin/sh -e
-
-chown -R stb:gstb /sys/power/state
-
-mount -o remount,ro /
