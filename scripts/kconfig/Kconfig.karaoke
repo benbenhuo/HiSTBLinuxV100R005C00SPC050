@@ -1,8 +1,0 @@
-#+++++++++++++++++++++++++++++++++++++++++++++++++++
-
-config HI_KARAOKE_SUPPORT
-	bool "KARAOKE Support"
-	depends on ANDROID_PRODUCT
-	default y
-
-#+++++++++++++++++++++++++++++++++++++++++++++++++++
